@@ -1,6 +1,6 @@
 from cryptography.fernet import Fernet
 
-class passwordManager:
+class passwordManager: uytfuiugfcguiugvgiouguioiucgu9uygfyu9uygfu909
 
     def __init__(self):
         self.key = None
